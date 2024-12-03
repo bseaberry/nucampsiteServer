@@ -4,6 +4,6 @@ Currently, I am in the process of bridging the front-end component with the back
 thereby facilitating the deployment of the complete full-stack application.*/
 
 *TECHNOLOGIES USED:
-Node.js
-Express
+Node.js,
+Express,
 Mongo DB
